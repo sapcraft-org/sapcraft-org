@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [olivia bot]
 
-- 🌱 I’m currently learning **ruby and java (expert mode)**
+-  🌱 I’m currently learning **ruby and java (expert mode)**
+
+-  👨‍ Basically i worked as minecraft developer before **(v1.8.9-1.16.4)**
 
 - 👨‍💻 All of my projects are available at [on my repo]
 
