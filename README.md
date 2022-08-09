@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Discord Bot Developer
+## I'm a Developer
 
 - 🌱 I am experienced in html and java and I am currently learning CSS and Kotlin
 - 😄 Pronouns: He/Him
@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 **Total ![visitor no](https://visitor-badge.glitch.me/badge?page_id=sapcraft-org.sapcraft-org&left_color=black&right_color=black)**
 
-```text
-🌞 Morning    158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   20.93% 
-🌆 Daytime    145 commits    ████░░░░░░░░░░░░░░░░░░░░░   25.56% 
+```text 
+🌞 Morning    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   20.93% 
+🌆 Daytime    25 commits     ████░░░░░░░░░░░░░░░░░░░░░   25.56% 
 🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-🌙 Night      81 commits     █████████████████░░░░░░░░   78.58%
+🌙 Night      156 commits    █████████████████░░░░░░░░   78.58%
 ```
 <!--END_SECTION:waka-->
 
