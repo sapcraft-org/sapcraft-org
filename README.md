@@ -55,7 +55,6 @@
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
 
 ### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=sapcraft-org&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 ![sapcraft-org's GitHub stats](https://github-readme-stats.vercel.app/api?username=sapcraft-org&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapcraft-org)](https://github.com/anuraghazra/github-readme-stats)
 
